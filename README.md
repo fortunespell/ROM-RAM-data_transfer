@@ -17,6 +17,8 @@ This program demonstrates array copying and exchange operations in ARM assembly 
 * **AREA .data:** Allocates space for the RAM arrays.
 * **AREA .text:** Contains the main program code.
 
+![image](https://github.com/user-attachments/assets/b986b91d-8d03-4fb6-bc31-058b78c9c617)
+
 **Instructions:**
 
 * **MOV:** Moves immediate values or register contents.
@@ -31,6 +33,8 @@ This program demonstrates array copying and exchange operations in ARM assembly 
 1. **Initialization:** The program initializes the stack pointer and sets up the vector table.
 2. **Array Copying:** The `MEMCPY_LOOP` copies the elements of ROMARRAY2 to ARRAY2 in RAM.
 3. **Array Exchange:** The `EXCH_LOOP` exchanges the elements of ARRAY1 and ARRAY2 in RAM.
+
+![image](https://github.com/user-attachments/assets/bbee0fdc-fa8a-4db9-96d5-8fa9ca1f77d7)
 
 **Notes:**
 
