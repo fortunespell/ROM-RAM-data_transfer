@@ -17,8 +17,6 @@ This program demonstrates array copying and exchange operations in ARM assembly 
 * **AREA .data:** Allocates space for the RAM arrays.
 * **AREA .text:** Contains the main program code.
 
-![image](https://github.com/user-attachments/assets/b986b91d-8d03-4fb6-bc31-058b78c9c617)
-
 **Instructions:**
 
 * **MOV:** Moves immediate values or register contents.
