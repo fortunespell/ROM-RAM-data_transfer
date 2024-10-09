@@ -17,6 +17,8 @@
 ## Overview
 This project demonstrates basic data manipulation in ARM assembly, including copying and swapping array data between ROM and RAM. The program defines the stack, initializes ROM and RAM arrays, and includes routines to copy and exchange data between these arrays.
 
+![image](https://github.com/user-attachments/assets/b7586d3c-71bd-42b1-bb2b-22894d1db77c)
+
 ## Features
 - **Stack Setup**: Defines and initializes the stack memory.
 - **Interrupt Vector Table**: Sets up the stack pointer and reset handler in the vector table.
@@ -61,8 +63,6 @@ To assemble and run this program:
 - **Stack**: Starts at `0x00000100`.
 - **ROM Arrays**: Defined in read-only memory with preset values.
 - **RAM Arrays**: Allocated 32 bytes each for manipulation.
-
-![image](https://github.com/user-attachments/assets/b7586d3c-71bd-42b1-bb2b-22894d1db77c)
 
 ## Advantages of Assembly over C
 - **Performance**: Assembly language can be more efficient than C due to reduced overhead and fine-tuned control over hardware resources, leading to faster execution times.
