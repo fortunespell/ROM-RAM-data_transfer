@@ -15,7 +15,7 @@
 9. [License](#license)
 
 ## Overview
-This project demonstrates basic data manipulation in ARM assembly, including copying and swapping array data between ROM and RAM. The program defines the stack, initializes ROM and RAM arrays, and includes routines to copy and exchange data between these arrays.
+This project demonstrates basic data manipulation in ARM assembly, including copying and swapping array data between ROM and RAM. The program defines the stack, initializes ROM and RAM arrays, and includes routines to copy and exchange data between these arrays. The primary objective of this project is to illustrate the fundamental operations of memory management and data manipulation at a low level using assembly language. By performing these operations, the project showcases the efficiency and control that assembly language provides over hardware resources.
 
 ![image](https://github.com/user-attachments/assets/b7586d3c-71bd-42b1-bb2b-22894d1db77c)
 
